@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1421_小玉买文具.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1046_陶陶摘苹果.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/out/production/LuoGu/Pair.class&#10;/Users/shiyuanchen/LuoGu/out/production/LuoGu/P1085_不高兴的津津.class" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -60,9 +61,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1085_不高兴的津津">
-    <configuration name="P1035_级数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1035_级数求和" />
+  <component name="RunManager" selected="Application.P1046_陶陶摘苹果">
+    <configuration name="P1046_陶陶摘苹果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1046_陶陶摘苹果" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1046_陶陶摘苹果" />
         <item itemvalue="Application.P1085_不高兴的津津" />
         <item itemvalue="Application.P1421_小玉买文具" />
         <item itemvalue="Application.P1422_小玉家的电费" />
         <item itemvalue="Application.P1425_小鱼的游泳时间" />
-        <item itemvalue="Application.P1035_级数求和" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
-      <workItem from="1583345310172" duration="788000" />
+      <workItem from="1583345310172" duration="1046000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -146,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583346072254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="小玉买文具">
+      <created>1583346120124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583346120124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="不高兴的津津">
+      <created>1583346279771</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583346279771</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,33 +171,35 @@
     <MESSAGE value="Specify metadata" />
     <MESSAGE value="小鱼的游泳时间" />
     <MESSAGE value="小玉家的电费" />
-    <option name="LAST_COMMIT_MESSAGE" value="小玉家的电费" />
+    <MESSAGE value="小玉买文具" />
+    <MESSAGE value="不高兴的津津" />
+    <option name="LAST_COMMIT_MESSAGE" value="不高兴的津津" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Project_Structure" timestamp="1583345491133">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="920" y="196" key="#Project_Structure/37.23.1883.1177@37.23.1883.1177" timestamp="1583345491133" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583346205789">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583346279618">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583346205789" />
-    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583346243291">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583346279618" />
+    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583346364670">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583346243291" />
-    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583346243289">
+    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364670" />
+    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583346364669">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583346243289" />
-    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583346243289">
+    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364669" />
+    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583346364669">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583346243288" />
-    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583346243290">
+    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364669" />
+    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583346364669">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583346243290" />
+    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364669" />
     <state x="640" y="90" key="SettingsEditor" timestamp="1583345952263">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
