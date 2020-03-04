@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1000_超级玛丽.java" afterDir="false" />
+    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="Specify metadata">
+      <change afterPath="$PROJECT_DIR$/src/P1001_APlusB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1035_级数求和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1046_陶陶摘苹果.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1047_校门外的树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1085_不高兴的津津.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1089_津津的储蓄计划.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1421_小玉买文具.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1422_小玉家的电费.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1425_小鱼的游泳时间.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LuoGu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LuoGu.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +55,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P1422_小玉家的电费">
     <configuration name="P1000_超级玛丽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1000_超级玛丽" />
       <module name="LuoGu" />
@@ -63,8 +76,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P1001_APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1001_APlusB" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1035_级数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1035_级数求和" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1422_小玉家的电费" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1422_小玉家的电费" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1425_小鱼的游泳时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1425_小鱼的游泳时间" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1422_小玉家的电费" />
+        <item itemvalue="Application.P1425_小鱼的游泳时间" />
+        <item itemvalue="Application.P1035_级数求和" />
+        <item itemvalue="Application.P1001_APlusB" />
         <item itemvalue="Application.P1000_超级玛丽" />
       </list>
     </recent_temporary>
@@ -79,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
-      <workItem from="1583345310172" duration="317000" />
+      <workItem from="1583345310172" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -110,13 +155,29 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="920" y="196" key="#Project_Structure/37.23.1883.1177@37.23.1883.1177" timestamp="1583345491133" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583345407251">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583345986770">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583345407251" />
-    <state x="640" y="91" key="SettingsEditor" timestamp="1583345626601">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583345986770" />
+    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583345986802">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="640" y="91" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583345626601" />
+    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583345986802" />
+    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583345986801">
+      <screen x="37" y="23" width="1883" height="1177" />
+    </state>
+    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583345986801" />
+    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583345986801">
+      <screen x="37" y="23" width="1883" height="1177" />
+    </state>
+    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583345986801" />
+    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583345986801">
+      <screen x="37" y="23" width="1883" height="1177" />
+    </state>
+    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583345986801" />
+    <state x="640" y="90" key="SettingsEditor" timestamp="1583345952263">
+      <screen x="37" y="23" width="1883" height="1177" />
+    </state>
+    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583345952263" />
   </component>
 </project>
