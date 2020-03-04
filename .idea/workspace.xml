@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="A Plus B">
-      <change afterPath="$PROJECT_DIR$/src/P1001_APlusB.java" afterDir="false" />
+    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/P1089_津津的储蓄计划.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +54,14 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1001_APlusB">
+  <component name="RunManager" selected="Application.P1089_津津的储蓄计划">
     <configuration name="P1001_APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1001_APlusB" />
       <module name="LuoGu" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1421_小玉买文具" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1421_小玉买文具" />
+    <configuration name="P1089_津津的储蓄计划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1089_津津的储蓄计划" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1089_津津的储蓄计划" />
         <item itemvalue="Application.P1001_APlusB" />
         <item itemvalue="Application.P1035_级数求和" />
         <item itemvalue="Application.P1046_陶陶摘苹果" />
         <item itemvalue="Application.P1085_不高兴的津津" />
-        <item itemvalue="Application.P1421_小玉买文具" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +117,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
-      <workItem from="1583345310172" duration="1174000" />
+      <workItem from="1583345310172" duration="3212000" />
+      <workItem from="1583349327555" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583346436118</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="A Plus B">
+      <created>1583346494857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583346494857</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,29 +205,29 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="920" y="196" key="#Project_Structure/37.23.1883.1177@37.23.1883.1177" timestamp="1583345491133" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583346494771">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583349445501">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583346494771" />
-    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583346489071">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445501" />
+    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583349445603">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583346489071" />
-    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583346489071">
+    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445603" />
+    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583349445602">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583346489071" />
-    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583346489070">
+    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445602" />
+    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583349445601">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583346489070" />
-    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583346489071">
+    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445601" />
+    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583349445602">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583346489071" />
-    <state x="640" y="90" key="SettingsEditor" timestamp="1583345952263">
+    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445602" />
+    <state x="640" y="90" key="SettingsEditor" timestamp="1583349415594">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583345952263" />
+    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583349415594" />
   </component>
 </project>
