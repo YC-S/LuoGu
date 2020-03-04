@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1089_津津的储蓄计划.java" afterDir="false" />
+    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="津津的储蓄计划">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
       <workItem from="1583345310172" duration="3212000" />
-      <workItem from="1583349327555" duration="88000" />
+      <workItem from="1583349327555" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583346494857</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="津津的储蓄计划">
+      <created>1583349455384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583349455384</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,17 +205,18 @@
     <MESSAGE value="陶陶摘苹果" />
     <MESSAGE value="级数求和" />
     <MESSAGE value="A Plus B" />
-    <option name="LAST_COMMIT_MESSAGE" value="A Plus B" />
+    <MESSAGE value="津津的储蓄计划" />
+    <option name="LAST_COMMIT_MESSAGE" value="津津的储蓄计划" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Project_Structure" timestamp="1583345491133">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="920" y="196" key="#Project_Structure/37.23.1883.1177@37.23.1883.1177" timestamp="1583345491133" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583349445501">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583349460975">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445501" />
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583349460975" />
     <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583349445603">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
@@ -225,9 +233,9 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583349445602" />
-    <state x="640" y="90" key="SettingsEditor" timestamp="1583349415594">
+    <state x="640" y="90" key="SettingsEditor" timestamp="1583349466126">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583349415594" />
+    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583349466126" />
   </component>
 </project>
