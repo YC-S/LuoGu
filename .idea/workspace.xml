@@ -61,7 +61,14 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1046_陶陶摘苹果">
+  <component name="RunManager" selected="Application.P1035_级数求和">
+    <configuration name="P1035_级数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1035_级数求和" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P1046_陶陶摘苹果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1046_陶陶摘苹果" />
       <module name="LuoGu" />
@@ -90,20 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1425_小鱼的游泳时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1425_小鱼的游泳时间" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1035_级数求和" />
         <item itemvalue="Application.P1046_陶陶摘苹果" />
         <item itemvalue="Application.P1085_不高兴的津津" />
         <item itemvalue="Application.P1421_小玉买文具" />
         <item itemvalue="Application.P1422_小玉家的电费" />
-        <item itemvalue="Application.P1425_小鱼的游泳时间" />
       </list>
     </recent_temporary>
   </component>
@@ -180,26 +180,26 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="920" y="196" key="#Project_Structure/37.23.1883.1177@37.23.1883.1177" timestamp="1583345491133" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583346279618">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583346383152">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583346279618" />
-    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583346364670">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583346383152" />
+    <state width="942" height="305" key="GridCell.Tab.0.bottom" timestamp="1583346384353">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364670" />
-    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583346364669">
+    <state width="942" height="305" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583346384353" />
+    <state width="942" height="305" key="GridCell.Tab.0.center" timestamp="1583346384352">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364669" />
-    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583346364669">
+    <state width="942" height="305" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583346384352" />
+    <state width="942" height="305" key="GridCell.Tab.0.left" timestamp="1583346384352">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364669" />
-    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583346364669">
+    <state width="942" height="305" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583346384352" />
+    <state width="942" height="305" key="GridCell.Tab.0.right" timestamp="1583346384353">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583346364669" />
+    <state width="942" height="305" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583346384353" />
     <state x="640" y="90" key="SettingsEditor" timestamp="1583345952263">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
