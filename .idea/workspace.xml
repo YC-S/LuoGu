@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1008_三连击.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dependencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TruckDistance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuoGu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LuoGu.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -54,16 +57,16 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1008_三连击">
-    <configuration name="P1001_APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1001_APlusB" />
+  <component name="RunManager" selected="Kotlin.TruckDistance">
+    <configuration name="Dependencies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dependencies" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,20 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1035_级数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1035_级数求和" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1089_津津的储蓄计划" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1089_津津的储蓄计划" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="P1909_买铅笔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1909_买铅笔" />
       <module name="LuoGu" />
@@ -97,13 +86,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TruckDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TruckDistance" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TruckDistance" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="LuoGu" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TruckDistance" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TruckDistance" />
+        <item itemvalue="Application.Dependencies" />
+        <item itemvalue="Application.TruckDistance" />
         <item itemvalue="Application.P1008_三连击" />
         <item itemvalue="Application.P1909_买铅笔" />
-        <item itemvalue="Application.P1089_津津的储蓄计划" />
-        <item itemvalue="Application.P1001_APlusB" />
-        <item itemvalue="Application.P1035_级数求和" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
       <workItem from="1583345310172" duration="3212000" />
-      <workItem from="1583349327555" duration="10008000" />
+      <workItem from="1583349327555" duration="12935000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -204,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583356436177</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="三连击">
+      <created>1583361288137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1583361288137</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +238,8 @@
     <MESSAGE value="津津的储蓄计划" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="买铅笔" />
-    <option name="LAST_COMMIT_MESSAGE" value="买铅笔" />
+    <MESSAGE value="三连击" />
+    <option name="LAST_COMMIT_MESSAGE" value="三连击" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Project_Structure" timestamp="1583345491133">
@@ -237,22 +254,22 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583361287990" />
-    <state width="942" height="324" key="GridCell.Tab.0.bottom" timestamp="1583360700424">
+    <state width="942" height="324" key="GridCell.Tab.0.bottom" timestamp="1583363609000">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583360700424" />
-    <state width="942" height="324" key="GridCell.Tab.0.center" timestamp="1583360700423">
+    <state width="942" height="324" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583363609000" />
+    <state width="942" height="324" key="GridCell.Tab.0.center" timestamp="1583363608999">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583360700423" />
-    <state width="942" height="324" key="GridCell.Tab.0.left" timestamp="1583360700423">
+    <state width="942" height="324" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583363608999" />
+    <state width="942" height="324" key="GridCell.Tab.0.left" timestamp="1583363608998">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583360700423" />
-    <state width="942" height="324" key="GridCell.Tab.0.right" timestamp="1583360700424">
+    <state width="942" height="324" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583363608998" />
+    <state width="942" height="324" key="GridCell.Tab.0.right" timestamp="1583363608999">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583360700424" />
+    <state width="942" height="324" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583363608999" />
     <state width="1883" height="401" key="GridCell.Tab.1.bottom" timestamp="1583357568865">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
@@ -269,10 +286,10 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="401" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583357568865" />
-    <state x="640" y="90" key="SettingsEditor" timestamp="1583352896391">
+    <state x="640" y="90" key="SettingsEditor" timestamp="1583362183599">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583352896391" />
+    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583362183599" />
     <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583352896184">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
