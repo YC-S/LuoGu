@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dependencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TruckDistance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1423_小玉在游泳.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LuoGu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LuoGu.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TruckDistance">
+  <component name="RunManager" selected="Application.P1423_小玉在游泳">
     <configuration name="Dependencies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dependencies" />
       <module name="LuoGu" />
@@ -79,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1909_买铅笔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1909_买铅笔" />
+    <configuration name="P1423_小玉在游泳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1423_小玉在游泳" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1423_小玉在游泳" />
         <item itemvalue="Kotlin.TruckDistance" />
         <item itemvalue="Application.Dependencies" />
         <item itemvalue="Application.TruckDistance" />
         <item itemvalue="Application.P1008_三连击" />
-        <item itemvalue="Application.P1909_买铅笔" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
       <workItem from="1583345310172" duration="3212000" />
-      <workItem from="1583349327555" duration="12935000" />
+      <workItem from="1583349327555" duration="13316000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -220,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583361288137</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="三连击">
+      <created>1583371731330</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583371731330</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,26 +255,26 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="1218" y="269" key="#com.intellij.ide.util.MemberChooser/37.23.1883.1177@37.23.1883.1177" timestamp="1583351447879" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583361287990">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583371731223">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583361287990" />
-    <state width="942" height="324" key="GridCell.Tab.0.bottom" timestamp="1583363609000">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583371731223" />
+    <state width="942" height="324" key="GridCell.Tab.0.bottom" timestamp="1583372174192">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583363609000" />
-    <state width="942" height="324" key="GridCell.Tab.0.center" timestamp="1583363608999">
+    <state width="942" height="324" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174192" />
+    <state width="942" height="324" key="GridCell.Tab.0.center" timestamp="1583372174191">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583363608999" />
-    <state width="942" height="324" key="GridCell.Tab.0.left" timestamp="1583363608998">
+    <state width="942" height="324" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174191" />
+    <state width="942" height="324" key="GridCell.Tab.0.left" timestamp="1583372174191">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583363608998" />
-    <state width="942" height="324" key="GridCell.Tab.0.right" timestamp="1583363608999">
+    <state width="942" height="324" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174191" />
+    <state width="942" height="324" key="GridCell.Tab.0.right" timestamp="1583372174192">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583363608999" />
+    <state width="942" height="324" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174192" />
     <state width="1883" height="401" key="GridCell.Tab.1.bottom" timestamp="1583357568865">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
