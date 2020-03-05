@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1423_小玉在游泳.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1424_小鱼的航程_改进版.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1423_小玉在游泳">
+  <component name="RunManager" selected="Application.P1424_小鱼的航程_改进版">
     <configuration name="Dependencies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dependencies" />
       <module name="LuoGu" />
@@ -70,15 +70,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1008_三连击" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1008_三连击" />
+    <configuration name="P1423_小玉在游泳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1423_小玉在游泳" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1423_小玉在游泳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1423_小玉在游泳" />
+    <configuration name="P1424_小鱼的航程_改进版" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1424_小鱼的航程_改进版" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1424_小鱼的航程_改进版" />
         <item itemvalue="Application.P1423_小玉在游泳" />
         <item itemvalue="Kotlin.TruckDistance" />
         <item itemvalue="Application.Dependencies" />
         <item itemvalue="Application.TruckDistance" />
-        <item itemvalue="Application.P1008_三连击" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583345308687</updated>
       <workItem from="1583345310172" duration="3212000" />
-      <workItem from="1583349327555" duration="13316000" />
+      <workItem from="1583349327555" duration="14077000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583371731330</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="小玉在游泳">
+      <created>1583372266997</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583372266997</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +251,8 @@
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="买铅笔" />
     <MESSAGE value="三连击" />
-    <option name="LAST_COMMIT_MESSAGE" value="三连击" />
+    <MESSAGE value="小玉在游泳" />
+    <option name="LAST_COMMIT_MESSAGE" value="小玉在游泳" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Project_Structure" timestamp="1583345491133">
@@ -255,42 +263,42 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="1218" y="269" key="#com.intellij.ide.util.MemberChooser/37.23.1883.1177@37.23.1883.1177" timestamp="1583351447879" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583371731223">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583372266887">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583371731223" />
-    <state width="942" height="324" key="GridCell.Tab.0.bottom" timestamp="1583372174192">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583372266887" />
+    <state width="942" height="324" key="GridCell.Tab.0.bottom" timestamp="1583372845033">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174192" />
-    <state width="942" height="324" key="GridCell.Tab.0.center" timestamp="1583372174191">
+    <state width="942" height="324" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583372845033" />
+    <state width="942" height="324" key="GridCell.Tab.0.center" timestamp="1583372845032">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174191" />
-    <state width="942" height="324" key="GridCell.Tab.0.left" timestamp="1583372174191">
+    <state width="942" height="324" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583372845032" />
+    <state width="942" height="324" key="GridCell.Tab.0.left" timestamp="1583372845031">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174191" />
-    <state width="942" height="324" key="GridCell.Tab.0.right" timestamp="1583372174192">
+    <state width="942" height="324" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583372845031" />
+    <state width="942" height="324" key="GridCell.Tab.0.right" timestamp="1583372845032">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="942" height="324" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583372174192" />
-    <state width="1883" height="401" key="GridCell.Tab.1.bottom" timestamp="1583357568865">
+    <state width="942" height="324" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583372845032" />
+    <state width="942" height="388" key="GridCell.Tab.1.bottom" timestamp="1583372664980">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="1883" height="401" key="GridCell.Tab.1.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583357568865" />
-    <state width="1883" height="401" key="GridCell.Tab.1.center" timestamp="1583357568865">
+    <state width="942" height="388" key="GridCell.Tab.1.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583372664980" />
+    <state width="942" height="388" key="GridCell.Tab.1.center" timestamp="1583372664979">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="1883" height="401" key="GridCell.Tab.1.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583357568865" />
-    <state width="1883" height="401" key="GridCell.Tab.1.left" timestamp="1583357568865">
+    <state width="942" height="388" key="GridCell.Tab.1.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583372664979" />
+    <state width="942" height="388" key="GridCell.Tab.1.left" timestamp="1583372664979">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="1883" height="401" key="GridCell.Tab.1.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583357568865" />
-    <state width="1883" height="401" key="GridCell.Tab.1.right" timestamp="1583357568865">
+    <state width="942" height="388" key="GridCell.Tab.1.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583372664979" />
+    <state width="942" height="388" key="GridCell.Tab.1.right" timestamp="1583372664980">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state width="1883" height="401" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583357568865" />
+    <state width="942" height="388" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583372664980" />
     <state x="640" y="90" key="SettingsEditor" timestamp="1583362183599">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
@@ -299,5 +307,16 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog/37.23.1883.1177@37.23.1883.1177" timestamp="1583352896184" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P1424_小鱼的航程_改进版.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
