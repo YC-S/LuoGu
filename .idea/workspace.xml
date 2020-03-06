@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1200_你的飞碟在这儿.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1308_统计单词数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1200_你的飞碟在这儿">
-    <configuration name="P1047_校门外的树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1047_校门外的树" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P1308_统计单词数">
     <configuration name="P1055_ISBN号码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1055_ISBN号码" />
       <module name="LuoGu" />
@@ -86,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P1308_统计单词数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1308_统计单词数" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P1567_统计天数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1567_统计天数" />
       <module name="LuoGu" />
@@ -93,27 +93,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2141_珠心算测验" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P2141_珠心算测验" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.P1047_校门外的树" />
-      <item itemvalue="Application.P2141_珠心算测验" />
       <item itemvalue="Application.P1567_统计天数" />
       <item itemvalue="Application.P1055_ISBN号码" />
       <item itemvalue="Application.P1200_你的飞碟在这儿" />
+      <item itemvalue="Application.P1308_统计单词数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1308_统计单词数" />
         <item itemvalue="Application.P1200_你的飞碟在这儿" />
         <item itemvalue="Application.P1055_ISBN号码" />
         <item itemvalue="Application.P1567_统计天数" />
-        <item itemvalue="Application.P2141_珠心算测验" />
-        <item itemvalue="Application.P1047_校门外的树" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +122,10 @@
       <workItem from="1583349327555" duration="19986000" />
       <workItem from="1583379778241" duration="5841000" />
       <workItem from="1583387424500" duration="2977000" />
-      <workItem from="1583426141760" duration="7019000" />
+      <workItem from="1583426141760" duration="13195000" />
+      <workItem from="1583471349378" duration="527000" />
+      <workItem from="1583474435699" duration="436000" />
+      <workItem from="1583507615427" duration="1677000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -294,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583438247484</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="你的飞碟在这儿">
+      <created>1583438756780</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1583438756780</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +323,8 @@
     <MESSAGE value="珠心算测验" />
     <MESSAGE value="统计天数" />
     <MESSAGE value="ISBN号码" />
-    <option name="LAST_COMMIT_MESSAGE" value="ISBN号码" />
+    <MESSAGE value="你的飞碟在这儿" />
+    <option name="LAST_COMMIT_MESSAGE" value="你的飞碟在这儿" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="178" key="#Project_Structure" timestamp="1583387481138">
@@ -330,72 +332,73 @@
     </state>
     <state x="920" y="178" key="#Project_Structure/37.23.1883.1057@37.23.1883.1057" timestamp="1583387481138" />
     <state x="920" y="196" key="#Project_Structure/37.23.1883.1177@37.23.1883.1177" timestamp="1583345491133" />
-    <state x="31" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583387598885">
-      <screen x="37" y="23" width="1883" height="1057" />
+    <state x="849" y="268" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583474567992">
+      <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="31" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1883.1057@37.23.1883.1057" timestamp="1583387598885" />
-    <state x="1067" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1583379440261">
-      <screen x="36" y="23" width="1644" height="1027" />
+    <state x="849" y="268" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1883.1177@37.23.1883.1177" timestamp="1583474567992" />
+    <state x="1218" y="269" key="#com.intellij.ide.util.MemberChooser" timestamp="1583462383277">
+      <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="1067" y="238" key="#com.intellij.ide.util.MemberChooser/36.23.1644.1027@36.23.1644.1027" timestamp="1583379440261" />
-    <state x="1218" y="269" key="#com.intellij.ide.util.MemberChooser/37.23.1883.1177@37.23.1883.1177" timestamp="1583375826082" />
+    <state x="1218" y="269" key="#com.intellij.ide.util.MemberChooser/37.23.1883.1177@37.23.1883.1177" timestamp="1583462383277" />
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583379749663">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583438247346">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583438756661">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583438247346" />
-    <state width="942" height="275" key="GridCell.Tab.0.bottom" timestamp="1583438706281">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583438756661" />
+    <state width="1883" height="192" key="GridCell.Tab.0.bottom" timestamp="1583509310516">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="942" height="275" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583438706281" />
-    <state width="942" height="275" key="GridCell.Tab.0.center" timestamp="1583438706280">
+    <state width="1883" height="192" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583509310516" />
+    <state width="1883" height="192" key="GridCell.Tab.0.center" timestamp="1583509310515">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="942" height="275" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583438706280" />
-    <state width="942" height="275" key="GridCell.Tab.0.left" timestamp="1583438706279">
+    <state width="1883" height="192" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583509310515" />
+    <state width="1883" height="192" key="GridCell.Tab.0.left" timestamp="1583509310514">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608143" />
-    <state width="942" height="275" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583438706279" />
-    <state width="942" height="275" key="GridCell.Tab.0.right" timestamp="1583438706280">
+    <state width="1883" height="192" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583509310514" />
+    <state width="1883" height="192" key="GridCell.Tab.0.right" timestamp="1583509310516">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="942" height="275" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583438706280" />
-    <state width="942" height="381" key="GridCell.Tab.1.bottom" timestamp="1583437000847">
+    <state width="1883" height="192" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583509310516" />
+    <state width="942" height="380" key="GridCell.Tab.1.bottom" timestamp="1583471265497">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758553" />
     <state width="1883" height="377" key="GridCell.Tab.1.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608141" />
-    <state width="942" height="381" key="GridCell.Tab.1.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583437000847" />
-    <state width="942" height="381" key="GridCell.Tab.1.center" timestamp="1583437000846">
+    <state width="942" height="380" key="GridCell.Tab.1.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583471265497" />
+    <state width="942" height="380" key="GridCell.Tab.1.center" timestamp="1583471265496">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758553" />
     <state width="1883" height="377" key="GridCell.Tab.1.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608140" />
-    <state width="942" height="381" key="GridCell.Tab.1.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583437000846" />
-    <state width="942" height="381" key="GridCell.Tab.1.left" timestamp="1583437000846">
+    <state width="942" height="380" key="GridCell.Tab.1.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583471265496" />
+    <state width="942" height="380" key="GridCell.Tab.1.left" timestamp="1583471265496">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="377" key="GridCell.Tab.1.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608140" />
-    <state width="942" height="381" key="GridCell.Tab.1.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583437000846" />
-    <state width="942" height="381" key="GridCell.Tab.1.right" timestamp="1583437000846">
+    <state width="942" height="380" key="GridCell.Tab.1.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583471265496" />
+    <state width="942" height="380" key="GridCell.Tab.1.right" timestamp="1583471265497">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758553" />
     <state width="1883" height="377" key="GridCell.Tab.1.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608140" />
-    <state width="942" height="381" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583437000846" />
+    <state width="942" height="380" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583471265497" />
     <state x="23" y="23" key="SettingsEditor" timestamp="1583376025626">
       <screen x="23" y="23" width="1001" height="617" />
     </state>
