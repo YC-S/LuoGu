@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1553_数字反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1598_垂直柱状图.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LuoGu/META-INF/LuoGu.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1553_数字反转">
+  <component name="RunManager" selected="Application.P1598_垂直柱状图">
     <configuration name="P1055_ISBN号码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1055_ISBN号码" />
       <module name="LuoGu" />
@@ -94,27 +93,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1567_统计天数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1567_统计天数" />
+    <configuration name="P1598_垂直柱状图" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1598_垂直柱状图" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P1567_统计天数" />
       <item itemvalue="Application.P1055_ISBN号码" />
       <item itemvalue="Application.P1200_你的飞碟在这儿" />
       <item itemvalue="Application.P1308_统计单词数" />
       <item itemvalue="Application.P1553_数字反转" />
+      <item itemvalue="Application.P1598_垂直柱状图" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1598_垂直柱状图" />
         <item itemvalue="Application.P1553_数字反转" />
         <item itemvalue="Application.P1308_统计单词数" />
         <item itemvalue="Application.P1200_你的飞碟在这儿" />
         <item itemvalue="Application.P1055_ISBN号码" />
-        <item itemvalue="Application.P1567_统计天数" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +134,7 @@
       <workItem from="1583426141760" duration="13195000" />
       <workItem from="1583471349378" duration="527000" />
       <workItem from="1583474435699" duration="436000" />
-      <workItem from="1583507615427" duration="4321000" />
+      <workItem from="1583507615427" duration="6570000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -312,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583509354171</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="数字反转">
+      <created>1583511962041</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1583511962041</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +348,8 @@
     <MESSAGE value="ISBN号码" />
     <MESSAGE value="你的飞碟在这儿" />
     <MESSAGE value="统计单词数" />
-    <option name="LAST_COMMIT_MESSAGE" value="统计单词数" />
+    <MESSAGE value="数字反转" />
+    <option name="LAST_COMMIT_MESSAGE" value="数字反转" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="178" key="#Project_Structure" timestamp="1583387481138">
@@ -364,35 +371,35 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583509353980">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583511961871">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583509353980" />
-    <state width="1883" height="197" key="GridCell.Tab.0.bottom" timestamp="1583511609831">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583511961871" />
+    <state width="1883" height="352" key="GridCell.Tab.0.bottom" timestamp="1583514312742">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="1883" height="197" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583511609831" />
-    <state width="1883" height="197" key="GridCell.Tab.0.center" timestamp="1583511609830">
+    <state width="1883" height="352" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583514312742" />
+    <state width="1883" height="352" key="GridCell.Tab.0.center" timestamp="1583514312741">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="1883" height="197" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583511609830" />
-    <state width="1883" height="197" key="GridCell.Tab.0.left" timestamp="1583511609829">
+    <state width="1883" height="352" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583514312741" />
+    <state width="1883" height="352" key="GridCell.Tab.0.left" timestamp="1583514312740">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608143" />
-    <state width="1883" height="197" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583511609829" />
-    <state width="1883" height="197" key="GridCell.Tab.0.right" timestamp="1583511609830">
+    <state width="1883" height="352" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583514312740" />
+    <state width="1883" height="352" key="GridCell.Tab.0.right" timestamp="1583514312741">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="1883" height="197" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583511609830" />
+    <state width="1883" height="352" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583514312741" />
     <state width="1883" height="391" key="GridCell.Tab.1.bottom" timestamp="1583510508178">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
@@ -430,6 +437,10 @@
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog/37.23.1883.1177@37.23.1883.1177" timestamp="1583352896184" />
+    <state x="559" y="168" width="838" height="1032" key="search.everywhere.popup" timestamp="1583513204219">
+      <screen x="37" y="23" width="1883" height="1177" />
+    </state>
+    <state x="559" y="168" width="838" height="1032" key="search.everywhere.popup/37.23.1883.1177@37.23.1883.1177" timestamp="1583513204219" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
