@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1914_小书童_密码.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1028_数的计算.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,16 +57,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1914_小书童_密码">
-    <configuration name="P1200_你的飞碟在这儿" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1200_你的飞碟在这儿" />
+  <component name="RunManager" selected="Application.P1028_数的计算">
+    <configuration name="P1028_数的计算" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1028_数的计算" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,19 +101,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P1200_你的飞碟在这儿" />
       <item itemvalue="Application.P1308_统计单词数" />
       <item itemvalue="Application.P1553_数字反转" />
       <item itemvalue="Application.P1598_垂直柱状图" />
       <item itemvalue="Application.P1914_小书童_密码" />
+      <item itemvalue="Application.P1028_数的计算" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1028_数的计算" />
         <item itemvalue="Application.P1914_小书童_密码" />
         <item itemvalue="Application.P1598_垂直柱状图" />
         <item itemvalue="Application.P1553_数字反转" />
         <item itemvalue="Application.P1308_统计单词数" />
-        <item itemvalue="Application.P1200_你的飞碟在这儿" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,8 @@
       <workItem from="1583426141760" duration="13195000" />
       <workItem from="1583471349378" duration="527000" />
       <workItem from="1583474435699" duration="436000" />
-      <workItem from="1583507615427" duration="7265000" />
+      <workItem from="1583507615427" duration="8040000" />
+      <workItem from="1583516070705" duration="3885000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -325,14 +326,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583514358695</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="小书童">
+      <created>1583514921067</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1583514921067</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Specify metadata" />
     <MESSAGE value="小鱼的游泳时间" />
     <MESSAGE value="小玉家的电费" />
     <MESSAGE value="小玉买文具" />
@@ -357,7 +364,8 @@
     <MESSAGE value="统计单词数" />
     <MESSAGE value="数字反转" />
     <MESSAGE value="垂直柱状图" />
-    <option name="LAST_COMMIT_MESSAGE" value="垂直柱状图" />
+    <MESSAGE value="小书童" />
+    <option name="LAST_COMMIT_MESSAGE" value="小书童" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="178" key="#Project_Structure" timestamp="1583387481138">
@@ -379,72 +387,76 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583514358553">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583514920923">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
-    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583514358553" />
-    <state width="942" height="352" key="GridCell.Tab.0.bottom" timestamp="1583514899120">
+    <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583514920923" />
+    <state width="1883" height="377" key="GridCell.Tab.0.bottom" timestamp="1583519857796">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="942" height="352" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583514899120" />
-    <state width="942" height="352" key="GridCell.Tab.0.center" timestamp="1583514899119">
+    <state width="1883" height="377" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857796" />
+    <state width="1883" height="377" key="GridCell.Tab.0.center" timestamp="1583519857795">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="942" height="352" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583514899119" />
-    <state width="942" height="352" key="GridCell.Tab.0.left" timestamp="1583514899119">
+    <state width="1883" height="377" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857795" />
+    <state width="1883" height="377" key="GridCell.Tab.0.left" timestamp="1583519857795">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608143" />
-    <state width="942" height="352" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583514899119" />
-    <state width="942" height="352" key="GridCell.Tab.0.right" timestamp="1583514899120">
+    <state width="1883" height="377" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857795" />
+    <state width="1883" height="377" key="GridCell.Tab.0.right" timestamp="1583519857796">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
-    <state width="942" height="352" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583514899120" />
-    <state width="942" height="378" key="GridCell.Tab.1.bottom" timestamp="1583514694980">
+    <state width="1883" height="377" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857796" />
+    <state width="1883" height="377" key="GridCell.Tab.1.bottom" timestamp="1583519857798">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758553" />
     <state width="1883" height="377" key="GridCell.Tab.1.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608141" />
-    <state width="942" height="378" key="GridCell.Tab.1.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583514694980" />
-    <state width="942" height="378" key="GridCell.Tab.1.center" timestamp="1583514694979">
+    <state width="1883" height="377" key="GridCell.Tab.1.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857798" />
+    <state width="1883" height="377" key="GridCell.Tab.1.center" timestamp="1583519857797">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758553" />
     <state width="1883" height="377" key="GridCell.Tab.1.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608140" />
-    <state width="942" height="378" key="GridCell.Tab.1.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583514694979" />
-    <state width="942" height="378" key="GridCell.Tab.1.left" timestamp="1583514694979">
+    <state width="1883" height="377" key="GridCell.Tab.1.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857797" />
+    <state width="1883" height="377" key="GridCell.Tab.1.left" timestamp="1583519857797">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="377" key="GridCell.Tab.1.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608140" />
-    <state width="942" height="378" key="GridCell.Tab.1.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583514694979" />
-    <state width="942" height="378" key="GridCell.Tab.1.right" timestamp="1583514694979">
+    <state width="1883" height="377" key="GridCell.Tab.1.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857797" />
+    <state width="1883" height="377" key="GridCell.Tab.1.right" timestamp="1583519857798">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.1.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758553" />
     <state width="1883" height="377" key="GridCell.Tab.1.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608140" />
-    <state width="942" height="378" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583514694979" />
-    <state x="23" y="23" key="SettingsEditor" timestamp="1583376025626">
-      <screen x="23" y="23" width="1001" height="617" />
+    <state width="1883" height="377" key="GridCell.Tab.1.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583519857798" />
+    <state x="640" y="90" key="SettingsEditor" timestamp="1583516114530">
+      <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="23" y="23" key="SettingsEditor/23.23.1001.617@23.23.1001.617" timestamp="1583376025626" />
-    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583376008099" />
+    <state x="640" y="90" key="SettingsEditor/37.23.1883.1177@37.23.1883.1177" timestamp="1583516114530" />
     <state x="1215" y="518" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583438405587">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
     <state x="1215" y="518" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/37.23.1883.1177@37.23.1883.1177" timestamp="1583438405587" />
-    <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583352896184">
+    <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583516111818">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
-    <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog/37.23.1883.1177@37.23.1883.1177" timestamp="1583352896184" />
+    <state x="952" y="396" width="875" height="352" key="org.intellij.images.editor.actions.BackgroundImageDialog/37.23.1883.1177@37.23.1883.1177" timestamp="1583516111818" />
+    <state x="677" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1583517191263">
+      <screen x="37" y="23" width="1883" height="1177" />
+    </state>
+    <state x="677" y="166" key="refactoring.ChangeSignatureDialog/37.23.1883.1177@37.23.1883.1177" timestamp="1583517191263" />
     <state x="559" y="168" width="838" height="1032" key="search.everywhere.popup" timestamp="1583513204219">
       <screen x="37" y="23" width="1883" height="1177" />
     </state>
@@ -484,9 +496,14 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/P1914_小书童_密码.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="61" />
+          <url>file://$PROJECT_DIR$/src/P1028_数的计算.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P1028_数的计算.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
