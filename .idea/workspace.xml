@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P5719_分类平均.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P5721_数字直角三角形.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P5719_分类平均">
-    <configuration name="P1888_三角函数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1888_三角函数" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P5721_数字直角三角形">
     <configuration name="P4414_ABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P4414_ABC" />
       <module name="LuoGu" />
@@ -100,20 +93,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P5721_数字直角三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P5721_数字直角三角形" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.P1888_三角函数" />
       <item itemvalue="Application.P5717_三角形分类" />
       <item itemvalue="Application.P4414_ABC" />
       <item itemvalue="Application.P5718_找最小值" />
       <item itemvalue="Application.P5719_分类平均" />
+      <item itemvalue="Application.P5721_数字直角三角形" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5721_数字直角三角形" />
         <item itemvalue="Application.P5719_分类平均" />
         <item itemvalue="Application.P5718_找最小值" />
         <item itemvalue="Application.P4414_ABC" />
         <item itemvalue="Application.P5717_三角形分类" />
-        <item itemvalue="Application.P1888_三角函数" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,7 @@
       <workItem from="1583516070705" duration="6268000" />
       <workItem from="1583552655087" duration="244000" />
       <workItem from="1583595911009" duration="6000" />
-      <workItem from="1583675875373" duration="9372000" />
+      <workItem from="1583675875373" duration="10198000" />
     </task>
     <task id="LOCAL-00001" summary="Specify metadata">
       <created>1583345339382</created>
@@ -455,14 +455,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583685112467</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="分类平均">
+      <created>1583685427948</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1583685427948</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="小鱼比可爱" />
     <MESSAGE value="珠心算测验" />
     <MESSAGE value="统计天数" />
     <MESSAGE value="ISBN号码" />
@@ -487,7 +493,8 @@
     <MESSAGE value="三角形分类" />
     <MESSAGE value="ABC" />
     <MESSAGE value="找最小值" />
-    <option name="LAST_COMMIT_MESSAGE" value="找最小值" />
+    <MESSAGE value="分类平均" />
+    <option name="LAST_COMMIT_MESSAGE" value="分类平均" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="178" key="#Project_Structure" timestamp="1583387481138">
@@ -509,40 +516,40 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583685112340">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583685427796">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
     <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583519983994" />
-    <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583685112340" />
-    <state width="1876" height="345" key="GridCell.Tab.0.bottom" timestamp="1583685406683">
+    <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583685427796" />
+    <state width="938" height="345" key="GridCell.Tab.0.bottom" timestamp="1583686198075">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602233" />
-    <state width="1876" height="345" key="GridCell.Tab.0.bottom/44.23.1876.1177@44.23.1876.1177" timestamp="1583685406683" />
-    <state width="1876" height="345" key="GridCell.Tab.0.center" timestamp="1583685406682">
+    <state width="938" height="345" key="GridCell.Tab.0.bottom/44.23.1876.1177@44.23.1876.1177" timestamp="1583686198075" />
+    <state width="938" height="345" key="GridCell.Tab.0.center" timestamp="1583686198073">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602232" />
-    <state width="1876" height="345" key="GridCell.Tab.0.center/44.23.1876.1177@44.23.1876.1177" timestamp="1583685406682" />
-    <state width="1876" height="345" key="GridCell.Tab.0.left" timestamp="1583685406682">
+    <state width="938" height="345" key="GridCell.Tab.0.center/44.23.1876.1177@44.23.1876.1177" timestamp="1583686198073" />
+    <state width="938" height="345" key="GridCell.Tab.0.left" timestamp="1583686198072">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608143" />
     <state width="1883" height="388" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602232" />
-    <state width="1876" height="345" key="GridCell.Tab.0.left/44.23.1876.1177@44.23.1876.1177" timestamp="1583685406682" />
-    <state width="1876" height="345" key="GridCell.Tab.0.right" timestamp="1583685406683">
+    <state width="938" height="345" key="GridCell.Tab.0.left/44.23.1876.1177@44.23.1876.1177" timestamp="1583686198072" />
+    <state width="938" height="345" key="GridCell.Tab.0.right" timestamp="1583686198074">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602233" />
-    <state width="1876" height="345" key="GridCell.Tab.0.right/44.23.1876.1177@44.23.1876.1177" timestamp="1583685406683" />
+    <state width="938" height="345" key="GridCell.Tab.0.right/44.23.1876.1177@44.23.1876.1177" timestamp="1583686198074" />
     <state width="1876" height="388" key="GridCell.Tab.1.bottom" timestamp="1583676704184">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
