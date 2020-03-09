@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1217_回文质数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,14 +135,7 @@
       <workItem from="1583516070705" duration="6268000" />
       <workItem from="1583552655087" duration="244000" />
       <workItem from="1583595911009" duration="6000" />
-      <workItem from="1583675875373" duration="21336000" />
-    </task>
-    <task id="LOCAL-00003" summary="小鱼的游泳时间">
-      <created>1583346008477</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1583346008477</updated>
+      <workItem from="1583675875373" duration="21579000" />
     </task>
     <task id="LOCAL-00004" summary="小玉家的电费">
       <created>1583346072254</created>
@@ -483,14 +473,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583718578542</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="回文质数">
+      <created>1583727737138</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1583727737138</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="垂直柱状图" />
     <MESSAGE value="小书童" />
     <MESSAGE value="数的计算" />
     <MESSAGE value="苹果采购" />
@@ -515,7 +511,8 @@
     <MESSAGE value="金币" />
     <MESSAGE value="数列求和" />
     <MESSAGE value="质数口袋" />
-    <option name="LAST_COMMIT_MESSAGE" value="质数口袋" />
+    <MESSAGE value="回文质数" />
+    <option name="LAST_COMMIT_MESSAGE" value="回文质数" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="178" key="#Project_Structure" timestamp="1583387481138">
@@ -537,14 +534,14 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="963" y="144" key="CommitChangelistDialog2" timestamp="1583718578262">
-      <screen x="41" y="23" width="1879" height="1177" />
+    <state x="964" y="144" key="CommitChangelistDialog2" timestamp="1583727737009">
+      <screen x="43" y="23" width="1877" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
     <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583519983994" />
     <state x="963" y="144" key="CommitChangelistDialog2/41.23.1879.1177@41.23.1879.1177" timestamp="1583718578262" />
     <state x="963" y="144" key="CommitChangelistDialog2/42.23.1878.1177@42.23.1878.1177" timestamp="1583714525684" />
-    <state x="964" y="144" key="CommitChangelistDialog2/43.23.1877.1177@43.23.1877.1177" timestamp="1583715533238" />
+    <state x="964" y="144" key="CommitChangelistDialog2/43.23.1877.1177@43.23.1877.1177" timestamp="1583727737009" />
     <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583686240890" />
     <state width="939" height="300" key="GridCell.Tab.0.bottom" timestamp="1583727503549">
       <screen x="43" y="23" width="1877" height="1177" />
@@ -715,7 +712,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/P1217_回文质数.java</url>
-          <line>26</line>
+          <line>27</line>
           <option name="timeStamp" value="88" />
         </line-breakpoint>
       </breakpoints>
