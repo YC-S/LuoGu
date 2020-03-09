@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P3954_成绩.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P5730_显示屏.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P1179_数字统计">
+  <component name="RunManager" selected="Application.P5730_显示屏">
     <configuration name="P1179_数字统计" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P1179_数字统计" />
       <module name="LuoGu" />
@@ -79,15 +79,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P2615_神奇的幻方" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P2615_神奇的幻方" />
+    <configuration name="P3954_成绩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P3954_成绩" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P3954_成绩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P3954_成绩" />
+    <configuration name="P5730_显示屏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P5730_显示屏" />
       <module name="LuoGu" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,19 +101,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P2615_神奇的幻方" />
       <item itemvalue="Application.P5733_自动修正" />
       <item itemvalue="Application.P1634_禽兽的传染病" />
       <item itemvalue="Application.P3954_成绩" />
       <item itemvalue="Application.P1179_数字统计" />
+      <item itemvalue="Application.P5730_显示屏" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5730_显示屏" />
         <item itemvalue="Application.P1179_数字统计" />
         <item itemvalue="Application.P3954_成绩" />
         <item itemvalue="Application.P1634_禽兽的传染病" />
         <item itemvalue="Application.P5733_自动修正" />
-        <item itemvalue="Application.P2615_神奇的幻方" />
       </list>
     </recent_temporary>
   </component>
@@ -142,21 +142,7 @@
       <workItem from="1583761981145" duration="17756000" />
       <workItem from="1583786637118" duration="82000" />
       <workItem from="1583789271456" duration="1370000" />
-      <workItem from="1583791155994" duration="431000" />
-    </task>
-    <task id="LOCAL-00018" summary="校门外的树">
-      <created>1583383867090</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1583383867090</updated>
-    </task>
-    <task id="LOCAL-00019" summary="小鱼的数字游戏">
-      <created>1583384979119</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1583384979119</updated>
+      <workItem from="1583791155994" duration="1675000" />
     </task>
     <task id="LOCAL-00020" summary="小鱼比可爱">
       <created>1583385624055</created>
@@ -487,15 +473,27 @@
       <option name="project" value="LOCAL" />
       <updated>1583791298660</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="成绩">
+      <created>1583791621032</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1583791621032</updated>
+    </task>
+    <task id="LOCAL-00068" summary="数字统计">
+      <created>1583791791903</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1583791791903</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="三角函数" />
-    <MESSAGE value="三角形分类" />
     <MESSAGE value="ABC" />
     <MESSAGE value="找最小值" />
     <MESSAGE value="分类平均" />
@@ -519,7 +517,9 @@
     <MESSAGE value="神奇的幻方" />
     <MESSAGE value="自动修正" />
     <MESSAGE value="禽兽的传染病" />
-    <option name="LAST_COMMIT_MESSAGE" value="禽兽的传染病" />
+    <MESSAGE value="成绩" />
+    <MESSAGE value="数字统计" />
+    <option name="LAST_COMMIT_MESSAGE" value="数字统计" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Menus_and_Toolbars" timestamp="1583791268731">
@@ -549,7 +549,7 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583791620888">
+    <state x="965" y="144" key="CommitChangelistDialog2" timestamp="1583791791765">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
@@ -557,8 +557,8 @@
     <state x="963" y="144" key="CommitChangelistDialog2/41.23.1879.1177@41.23.1879.1177" timestamp="1583718578262" />
     <state x="963" y="144" key="CommitChangelistDialog2/42.23.1878.1177@42.23.1878.1177" timestamp="1583729243577" />
     <state x="964" y="144" key="CommitChangelistDialog2/43.23.1877.1177@43.23.1877.1177" timestamp="1583727737009" />
-    <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583791620888" />
-    <state width="938" height="395" key="GridCell.Tab.0.bottom" timestamp="1583791764073">
+    <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583791791765" />
+    <state width="1876" height="196" key="GridCell.Tab.0.bottom" timestamp="1583793046472">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
@@ -567,8 +567,8 @@
     <state width="939" height="301" key="GridCell.Tab.0.bottom/41.23.1879.1177@41.23.1879.1177" timestamp="1583718470305" />
     <state width="939" height="309" key="GridCell.Tab.0.bottom/42.23.1878.1177@42.23.1878.1177" timestamp="1583730444155" />
     <state width="939" height="300" key="GridCell.Tab.0.bottom/43.23.1877.1177@43.23.1877.1177" timestamp="1583727503549" />
-    <state width="938" height="395" key="GridCell.Tab.0.bottom/44.23.1876.1177@44.23.1876.1177" timestamp="1583791764073" />
-    <state width="938" height="395" key="GridCell.Tab.0.center" timestamp="1583791764072">
+    <state width="1876" height="196" key="GridCell.Tab.0.bottom/44.23.1876.1177@44.23.1876.1177" timestamp="1583793046472" />
+    <state width="1876" height="196" key="GridCell.Tab.0.center" timestamp="1583793046471">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
@@ -577,8 +577,8 @@
     <state width="939" height="301" key="GridCell.Tab.0.center/41.23.1879.1177@41.23.1879.1177" timestamp="1583718470304" />
     <state width="939" height="309" key="GridCell.Tab.0.center/42.23.1878.1177@42.23.1878.1177" timestamp="1583730444155" />
     <state width="939" height="300" key="GridCell.Tab.0.center/43.23.1877.1177@43.23.1877.1177" timestamp="1583727503548" />
-    <state width="938" height="395" key="GridCell.Tab.0.center/44.23.1876.1177@44.23.1876.1177" timestamp="1583791764072" />
-    <state width="938" height="395" key="GridCell.Tab.0.left" timestamp="1583791764072">
+    <state width="1876" height="196" key="GridCell.Tab.0.center/44.23.1876.1177@44.23.1876.1177" timestamp="1583793046471" />
+    <state width="1876" height="196" key="GridCell.Tab.0.left" timestamp="1583793046471">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
@@ -587,8 +587,8 @@
     <state width="939" height="301" key="GridCell.Tab.0.left/41.23.1879.1177@41.23.1879.1177" timestamp="1583718470303" />
     <state width="939" height="309" key="GridCell.Tab.0.left/42.23.1878.1177@42.23.1878.1177" timestamp="1583730444155" />
     <state width="939" height="300" key="GridCell.Tab.0.left/43.23.1877.1177@43.23.1877.1177" timestamp="1583727503548" />
-    <state width="938" height="395" key="GridCell.Tab.0.left/44.23.1876.1177@44.23.1876.1177" timestamp="1583791764072" />
-    <state width="938" height="395" key="GridCell.Tab.0.right" timestamp="1583791764072">
+    <state width="1876" height="196" key="GridCell.Tab.0.left/44.23.1876.1177@44.23.1876.1177" timestamp="1583793046471" />
+    <state width="1876" height="196" key="GridCell.Tab.0.right" timestamp="1583793046471">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
@@ -597,7 +597,7 @@
     <state width="939" height="301" key="GridCell.Tab.0.right/41.23.1879.1177@41.23.1879.1177" timestamp="1583718470304" />
     <state width="939" height="309" key="GridCell.Tab.0.right/42.23.1878.1177@42.23.1878.1177" timestamp="1583730444155" />
     <state width="939" height="300" key="GridCell.Tab.0.right/43.23.1877.1177@43.23.1877.1177" timestamp="1583727503549" />
-    <state width="938" height="395" key="GridCell.Tab.0.right/44.23.1876.1177@44.23.1876.1177" timestamp="1583791764072" />
+    <state width="1876" height="196" key="GridCell.Tab.0.right/44.23.1876.1177@44.23.1876.1177" timestamp="1583793046471" />
     <state width="938" height="395" key="GridCell.Tab.1.bottom" timestamp="1583791764074">
       <screen x="44" y="23" width="1876" height="1177" />
     </state>
