@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P5734_文字处理软件.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P4327_Okviri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P5734_文字处理软件">
-    <configuration name="P1116_车厢重组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1116_车厢重组" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P4327_Okviri">
     <configuration name="P2006_赵神牛的游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P2006_赵神牛的游戏" />
       <module name="LuoGu" />
@@ -93,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P4327_Okviri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P4327_Okviri" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P5734_文字处理软件" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P5734_文字处理软件" />
       <module name="LuoGu" />
@@ -101,19 +101,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.P1116_车厢重组" />
       <item itemvalue="Application.P2006_赵神牛的游戏" />
       <item itemvalue="Application.P2084_进制转换" />
       <item itemvalue="Application.P2524_Uim的情人节礼物" />
       <item itemvalue="Application.P5734_文字处理软件" />
+      <item itemvalue="Application.P4327_Okviri" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P4327_Okviri" />
         <item itemvalue="Application.P5734_文字处理软件" />
         <item itemvalue="Application.P2524_Uim的情人节礼物" />
         <item itemvalue="Application.P2084_进制转换" />
         <item itemvalue="Application.P2006_赵神牛的游戏" />
-        <item itemvalue="Application.P1116_车厢重组" />
       </list>
     </recent_temporary>
   </component>
@@ -142,14 +142,7 @@
       <workItem from="1583761981145" duration="17756000" />
       <workItem from="1583786637118" duration="82000" />
       <workItem from="1583789271456" duration="1370000" />
-      <workItem from="1583791155994" duration="17874000" />
-    </task>
-    <task id="LOCAL-00029" summary="数的计算">
-      <created>1583519984161</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1583519984161</updated>
+      <workItem from="1583791155994" duration="18976000" />
     </task>
     <task id="LOCAL-00030" summary="苹果采购">
       <created>1583676189057</created>
@@ -487,14 +480,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583857601661</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="文字处理软件">
+      <created>1583858665853</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1583858665853</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="计算阶乘" />
     <MESSAGE value="数字反转" />
     <MESSAGE value="月落乌啼算钱" />
     <MESSAGE value="求极差" />
@@ -519,7 +518,8 @@
     <MESSAGE value="赵神牛的游戏" />
     <MESSAGE value="进制转换" />
     <MESSAGE value="Uim的情人节礼物" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uim的情人节礼物" />
+    <MESSAGE value="文字处理软件" />
+    <option name="LAST_COMMIT_MESSAGE" value="文字处理软件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Menus_and_Toolbars" timestamp="1583791268731">
@@ -549,52 +549,52 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="963" y="144" key="CommitChangelistDialog2" timestamp="1583857601482">
+    <state x="963" y="144" key="CommitChangelistDialog2" timestamp="1583858665732">
       <screen x="41" y="23" width="1879" height="1177" />
     </state>
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
     <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583519983994" />
-    <state x="963" y="144" key="CommitChangelistDialog2/41.23.1879.1177@41.23.1879.1177" timestamp="1583857601482" />
+    <state x="963" y="144" key="CommitChangelistDialog2/41.23.1879.1177@41.23.1879.1177" timestamp="1583858665732" />
     <state x="963" y="144" key="CommitChangelistDialog2/42.23.1878.1177@42.23.1878.1177" timestamp="1583800636069" />
     <state x="429" y="156" key="CommitChangelistDialog2/43.23.1877.1177@43.23.1877.1177" timestamp="1583853578802" />
     <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583793086267" />
-    <state width="940" height="196" key="GridCell.Tab.0.bottom" timestamp="1583858557065">
+    <state width="940" height="196" key="GridCell.Tab.0.bottom" timestamp="1583859684783">
       <screen x="41" y="23" width="1879" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602233" />
-    <state width="940" height="196" key="GridCell.Tab.0.bottom/41.23.1879.1177@41.23.1879.1177" timestamp="1583858557065" />
+    <state width="940" height="196" key="GridCell.Tab.0.bottom/41.23.1879.1177@41.23.1879.1177" timestamp="1583859684783" />
     <state width="1878" height="395" key="GridCell.Tab.0.bottom/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547604" />
     <state width="939" height="196" key="GridCell.Tab.0.bottom/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495935" />
     <state width="939" height="196" key="GridCell.Tab.0.bottom/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532067" />
-    <state width="940" height="196" key="GridCell.Tab.0.center" timestamp="1583858557064">
+    <state width="940" height="196" key="GridCell.Tab.0.center" timestamp="1583859684782">
       <screen x="41" y="23" width="1879" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602232" />
-    <state width="940" height="196" key="GridCell.Tab.0.center/41.23.1879.1177@41.23.1879.1177" timestamp="1583858557064" />
+    <state width="940" height="196" key="GridCell.Tab.0.center/41.23.1879.1177@41.23.1879.1177" timestamp="1583859684782" />
     <state width="1878" height="395" key="GridCell.Tab.0.center/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547603" />
     <state width="939" height="196" key="GridCell.Tab.0.center/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495935" />
     <state width="939" height="196" key="GridCell.Tab.0.center/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532066" />
-    <state width="940" height="196" key="GridCell.Tab.0.left" timestamp="1583858557063">
+    <state width="940" height="196" key="GridCell.Tab.0.left" timestamp="1583859684781">
       <screen x="41" y="23" width="1879" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608143" />
     <state width="1883" height="388" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602232" />
-    <state width="940" height="196" key="GridCell.Tab.0.left/41.23.1879.1177@41.23.1879.1177" timestamp="1583858557063" />
+    <state width="940" height="196" key="GridCell.Tab.0.left/41.23.1879.1177@41.23.1879.1177" timestamp="1583859684781" />
     <state width="1878" height="395" key="GridCell.Tab.0.left/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547603" />
     <state width="939" height="196" key="GridCell.Tab.0.left/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495934" />
     <state width="939" height="196" key="GridCell.Tab.0.left/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532066" />
-    <state width="940" height="196" key="GridCell.Tab.0.right" timestamp="1583858557064">
+    <state width="940" height="196" key="GridCell.Tab.0.right" timestamp="1583859684782">
       <screen x="41" y="23" width="1879" height="1177" />
     </state>
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602233" />
-    <state width="940" height="196" key="GridCell.Tab.0.right/41.23.1879.1177@41.23.1879.1177" timestamp="1583858557064" />
+    <state width="940" height="196" key="GridCell.Tab.0.right/41.23.1879.1177@41.23.1879.1177" timestamp="1583859684782" />
     <state width="1878" height="395" key="GridCell.Tab.0.right/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547604" />
     <state width="939" height="196" key="GridCell.Tab.0.right/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495935" />
     <state width="939" height="196" key="GridCell.Tab.0.right/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532066" />
