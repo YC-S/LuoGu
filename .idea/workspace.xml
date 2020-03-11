@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8301f61-1080-477d-92fe-3d4be5996cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P5461_赦免战俘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P5740_最厉害的学生.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,14 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P5461_赦免战俘">
-    <configuration name="P1597_语句解析" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1597_语句解析" />
-      <module name="LuoGu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P5740_最厉害的学生">
     <configuration name="P5461_赦免战俘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P5461_赦免战俘" />
       <module name="LuoGu" />
@@ -100,20 +93,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P5740_最厉害的学生" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P5740_最厉害的学生" />
+      <module name="LuoGu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.P1597_语句解析" />
       <item itemvalue="Application.P5735_距离函数" />
       <item itemvalue="Application.P5736_质数筛" />
       <item itemvalue="Application.P5737_闰年展示" />
       <item itemvalue="Application.P5461_赦免战俘" />
+      <item itemvalue="Application.P5740_最厉害的学生" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P5740_最厉害的学生" />
         <item itemvalue="Application.P5461_赦免战俘" />
         <item itemvalue="Application.P5737_闰年展示" />
         <item itemvalue="Application.P5736_质数筛" />
         <item itemvalue="Application.P5735_距离函数" />
-        <item itemvalue="Application.P1597_语句解析" />
       </list>
     </recent_temporary>
   </component>
@@ -145,14 +145,7 @@
       <workItem from="1583791155994" duration="25294000" />
       <workItem from="1583935746019" duration="2033000" />
       <workItem from="1583937838115" duration="5369000" />
-      <workItem from="1583951775946" duration="8456000" />
-    </task>
-    <task id="LOCAL-00041" summary="月份天数">
-      <created>1583681374095</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1583681374095</updated>
+      <workItem from="1583951775946" duration="9147000" />
     </task>
     <task id="LOCAL-00042" summary="三角函数">
       <created>1583683247495</created>
@@ -490,14 +483,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583955879825</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="赦免战俘">
+      <created>1583961545350</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1583961545350</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="自动修正" />
     <MESSAGE value="禽兽的传染病" />
     <MESSAGE value="成绩" />
     <MESSAGE value="数字统计" />
@@ -522,7 +521,8 @@
     <MESSAGE value="距离函数" />
     <MESSAGE value="质数筛" />
     <MESSAGE value="闰年展示" />
-    <option name="LAST_COMMIT_MESSAGE" value="闰年展示" />
+    <MESSAGE value="赦免战俘" />
+    <option name="LAST_COMMIT_MESSAGE" value="赦免战俘" />
   </component>
   <component name="WindowStateProjectService">
     <state x="920" y="196" key="#Menus_and_Toolbars" timestamp="1583791268731">
@@ -553,10 +553,10 @@
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="546" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/36.23.1644.1027@36.23.1644.1027" timestamp="1583379749663" />
-    <state x="942" y="144" key="CommitChangelistDialog2" timestamp="1583955879709">
+    <state x="102" y="214" key="CommitChangelistDialog2" timestamp="1583961545217">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="942" y="144" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1583955879709" />
+    <state x="102" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1583961545217" />
     <state x="965" y="132" key="CommitChangelistDialog2/37.23.1883.1057@37.23.1883.1057" timestamp="1583384979017" />
     <state x="965" y="144" key="CommitChangelistDialog2/37.23.1883.1177@37.23.1883.1177" timestamp="1583519983994" />
     <state x="961" y="144" key="CommitChangelistDialog2/39.23.1881.1177@39.23.1881.1177" timestamp="1583885493912" />
@@ -565,11 +565,11 @@
     <state x="963" y="144" key="CommitChangelistDialog2/42.23.1878.1177@42.23.1878.1177" timestamp="1583800636069" />
     <state x="429" y="156" key="CommitChangelistDialog2/43.23.1877.1177@43.23.1877.1177" timestamp="1583853578802" />
     <state x="965" y="144" key="CommitChangelistDialog2/44.23.1876.1177@44.23.1876.1177" timestamp="1583793086267" />
-    <state width="960" height="300" key="GridCell.Tab.0.bottom" timestamp="1583961481716">
+    <state width="960" height="118" key="GridCell.Tab.0.bottom" timestamp="1583962194278">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="950" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1583951392085" />
-    <state width="960" height="300" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1583961481716" />
+    <state width="960" height="118" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1583962194278" />
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.bottom/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.bottom/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602233" />
@@ -579,11 +579,11 @@
     <state width="1878" height="395" key="GridCell.Tab.0.bottom/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547604" />
     <state width="939" height="196" key="GridCell.Tab.0.bottom/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495935" />
     <state width="939" height="196" key="GridCell.Tab.0.bottom/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532067" />
-    <state width="960" height="300" key="GridCell.Tab.0.center" timestamp="1583961481715">
+    <state width="960" height="118" key="GridCell.Tab.0.center" timestamp="1583962194278">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="950" height="196" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1583951392083" />
-    <state width="960" height="300" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1583961481715" />
+    <state width="960" height="118" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1583962194278" />
     <state width="1883" height="388" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.center/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.center/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602232" />
@@ -593,11 +593,11 @@
     <state width="1878" height="395" key="GridCell.Tab.0.center/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547603" />
     <state width="939" height="196" key="GridCell.Tab.0.center/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495935" />
     <state width="939" height="196" key="GridCell.Tab.0.center/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532066" />
-    <state width="960" height="300" key="GridCell.Tab.0.left" timestamp="1583961481714">
+    <state width="960" height="118" key="GridCell.Tab.0.left" timestamp="1583962194277">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="950" height="196" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1583951392083" />
-    <state width="960" height="300" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1583961481714" />
+    <state width="960" height="118" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1583962194277" />
     <state width="1883" height="388" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758551" />
     <state width="1883" height="241" key="GridCell.Tab.0.left/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608143" />
     <state width="1883" height="388" key="GridCell.Tab.0.left/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602232" />
@@ -607,11 +607,11 @@
     <state width="1878" height="395" key="GridCell.Tab.0.left/42.23.1878.1177@42.23.1878.1177" timestamp="1583800547603" />
     <state width="939" height="196" key="GridCell.Tab.0.left/43.23.1877.1177@43.23.1877.1177" timestamp="1583853495934" />
     <state width="939" height="196" key="GridCell.Tab.0.left/44.23.1876.1177@44.23.1876.1177" timestamp="1583849532066" />
-    <state width="960" height="300" key="GridCell.Tab.0.right" timestamp="1583961481715">
+    <state width="960" height="118" key="GridCell.Tab.0.right" timestamp="1583962194278">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="950" height="196" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1583951392084" />
-    <state width="960" height="300" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1583961481715" />
+    <state width="960" height="118" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1583962194278" />
     <state width="1883" height="388" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1583379758552" />
     <state width="1883" height="241" key="GridCell.Tab.0.right/37.23.1883.1057@37.23.1883.1057" timestamp="1583390608144" />
     <state width="1883" height="388" key="GridCell.Tab.0.right/37.23.1883.1177@37.23.1883.1177" timestamp="1583546602233" />
